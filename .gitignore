@@ -30,5 +30,8 @@ Thumbs.db
 # Database dumps
 *.sql
 
+# Allow the clean database structure
+!database/soundplus.sql
+
 # User-uploaded profile pictures
 admin/uploads/profile_picture/
