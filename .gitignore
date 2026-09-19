@@ -1,0 +1,34 @@
+# IDE
+.vscode/
+.idea/
+
+# Environment/config
+.env
+
+# Database connection
+admin/includes/admin_db_connect.php
+admin/public/includes/db_connect.php
+
+
+# PHP/XAMPP temporary files
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Incomplete browser downloads
+*.crdownload
+
+# Trash/recovery files
+.trashed-*
+
+# Audio files
+*.mp3
+*.MP3
+
+# Database dumps
+*.sql
+
+# User-uploaded profile pictures
+admin/uploads/profile_picture/
